@@ -1,0 +1,17 @@
+.book{
+width:450px;
+height:500px;
+border:1px solid #111111;
+margin-left:20px;
+margin-top:10px;
+padding:10 10;
+}
+
+.book_title{
+color:#999999;
+}
+
+.book_image{
+float:left;
+padding:5px;
+}
